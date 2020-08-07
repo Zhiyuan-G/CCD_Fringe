@@ -1,1 +1,1 @@
-# CCD_Fringe
+# LSST_CCD_Fringe
